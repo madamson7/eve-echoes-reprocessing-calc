@@ -1,0 +1,59 @@
+Welcome!
+
+I created this calculator so I could attempt to tackle the vast economics in Eve Echoes and hopefully come out on top making some Isk along the way as an Industrialist / Reprocessor.
+I've seen other similar calculators and YouTube videos showcasing this method but some authors decided not to share their knowledge with the community; I disagreed and thought "I can do this myself".
+
+So here it is. Please make a copy of the sheet for your own use.
+
+https://docs.google.com/spreadsheets/d/1uddfCpY5JO8CczpDo_wnN2eumZF5doSfexOzAwmV7zY/edit?usp=sharing
+
+If you find any issues please let me know. I've done some testing while making each part but now I feel it is ready for wider use.
+
+I plan on making a YouTube video guide on how to use the Calculator and will include a link to it when it is available.
+
+-------------------------------- Getting Started --------------------------------
+
+Please read over the 'ReadMe' Tab on the sheet prior to use. It contains a brief explanation of the main calculator along with a legend / color code.
+
+
+-------------------------------- Main Features --------------------------------
+
+Settings:
+-adjust your skill settings to match the game (this is critical for proper calculations).
+
+Profitability Calculator:
+-Item selection
+-Quantity to purchase
+-Taxes and Brokerage Fee breakdown
+-Gross & Net Profits
+-Overhead / Investment Costs
+-Ore Reprocessing Efficiency indicator when selecting an Ore from the Item list
+
+How to Get Profitable Calculator:
+-Enter desired Profit
+-Item select carries from main Calculator
+-Enter Purchase Price
+-Reprocessing & selling of those items totalled into a Gross Sales category
+-Net Profit per Unit
+-Number of units required @ Net Profit to reach Profit Goal
+
+Reprocessing Database:
+-pulls in MAX yield possible for every (as far as i know) item that can be reprocessed
+-allows for some of the main calculations to occur
+
+Game Defaults:
+-a table of the game defaults for Accounting and Reprocessing primarily
+-also provides a matrix that runs the Settings Tab to allow for proper transaction percentages (taxes and brokerage fees)
+
+Market Data:
+* this may be outdated * sourced from https://api.eve-echoes-market.com/market-stats/stats.csv/
+-provides a method to import the selling and purchase prices of items for calculations
+-I have provided a manual override entry field on the calculator should you be purchasing at a different price
+
+-------------------------------- Work in Progress / Coming Soon Features --------------------------------
+
+Transaction Audit:
+-enter your transaction history (in the Wallet section of the game) and watch it provide suggestions on how to be more profitable
+
+Most Profitable Item for Reprocessing:
+-a somewhat predictive tool to indicate to you, based on your skills, what items you should target for purchase, reprocessing and then selling to maximize profit and increase efficiency
